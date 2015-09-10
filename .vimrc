@@ -4,3 +4,7 @@ set shiftwidth=4
 set autoindent
 set smartindent
 set cindent
+set ignorecase
+set smartcase
+set incsearch
+syntax on
